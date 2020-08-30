@@ -66,7 +66,7 @@ fun main() {
             print("Masukan Tinggi Tabung  : ")
             val t: Double = input.nextDouble()
 
-            //menghitung Bola
+            //menghitung Tabung
             val vt: Double = Math.PI * r * r * t;
 
             //cetak hasil
